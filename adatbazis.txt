@@ -1,0 +1,9 @@
+1	Bende	Latrany 	82873	  HIV  Cancer  Blood	Y
+2	Olga	Kaposvar	662773	  Blood  Cancer  HIV  Rabies  HIV	N
+3	Andras	Monor	9789723	  Blood  COVID19  Hepatitis  Rorschach	Y
+4	Erik	Budapest	45531	  COVID19  Cancer  Blood  Hepatitis	Y
+5	Patrik	Balatonlelle	4343	  HIV  Cancer  Blood	Y
+6	Soma	Budapest	45554	  COVID19  HIV  Cancer  Rorschach	Y
+7	Nogla	London	4566	  Cancer	Y
+8	Adam	Monor	45552	  HIV  Cancer  Blood	N
+9	Emma	3444	23442	  COVID19  HIV	Y
